@@ -1,6 +1,6 @@
 # Movie-Time-Fetch-API
 
-A simple Movie's details Page with Fetch API using HTML, CSS and Javascript.
+A simple Movie's details Page with Fetch API using HTML, CSS and Javascript.   
 
 ## Preview: https://dushyant029.github.io/Movie-Time-Fetch-API/
 
